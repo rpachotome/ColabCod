@@ -16,7 +16,7 @@ public class ColabCOD {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Mezclemos merinas con churras ");
         JOptionPane.showMessageDialog(null, "Que tiene de malo mezclar?");
-        
+        JOptionPane.showInputDialog(null, "Prefires merinas o churras?");
     }
     
 }
